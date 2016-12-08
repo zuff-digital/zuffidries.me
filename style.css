@@ -10,8 +10,6 @@ body {
 }
 
 .name {
-  -webkit-mask-image: url('http://api.thumbr.it/whitenoise-361x370.png?');
-
   font-family: 'Merriweather', serif;
   text-shadow: 5px 5px black;
   font-size: 100px;
