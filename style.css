@@ -10,7 +10,7 @@ body {
 }
 
 .name {
-  background-image: url(http://api.thumbr.it/whitenoise-361x370.png?);
+  background-clip: text;
   font-family: 'Merriweather', serif;
   text-shadow: 5px 5px black;
   font-size: 100px;
