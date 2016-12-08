@@ -1,4 +1,13 @@
-.zuff {
+.container {
+  background-color: blue;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-self: center;
+}
+
+.name {
   font-family: 'Merriweather', serif;
   font-size: 50px;
   text-align: center;
@@ -7,17 +16,11 @@
   align-self: center;
 }
 
-.outer-container {
-  background-color: blue;
 
-  display: flex;
-  justify-content: space-around;
-  align-self: center;
-}
 
-.inner-container {
+p {
   background-color: yellow;
-  
+
   display: flex;
   flex-direction: row;
   justify-content: space-around;
