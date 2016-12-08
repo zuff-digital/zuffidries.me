@@ -8,6 +8,7 @@
 }
 
 .outer-container {
+  background-color: blue;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -15,9 +16,9 @@
 }
 
 .inner-container {
+  background-color: yellow;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   font-family: sans-serif;
-  align-items: center;
 }
