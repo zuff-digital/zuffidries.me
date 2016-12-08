@@ -1,6 +1,8 @@
-.outer-container {
+body {
   background-color: lightgrey;
+}
 
+.outer-container {
   display: flex;
   height: 100vh;
   flex-direction: column;
@@ -23,6 +25,7 @@
 .inner-container {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
   font-family: sans-serif;
+  font-style: italic
 }
