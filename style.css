@@ -10,8 +10,9 @@ body {
 }
 
 .name {
-  font-family: 'Merriweather', serif;
-  text-shadow: 5px, 5px;
+  font-family: 'Garamond', serif;
+  text-shadow: 5px, 5px, black;
+  color: white;
   font-size: 100px;
   text-align: center;
   font-style: italic;
