@@ -20,6 +20,6 @@
   background-color: yellow;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
   font-family: sans-serif;
 }
