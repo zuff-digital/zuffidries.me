@@ -1,5 +1,5 @@
 .outer-container {
-  background-color: grey;
+  background-color: lightgrey;
 
   display: flex;
   height: 100vh;
@@ -22,7 +22,7 @@
 
 
 .inner-container {
-  background-color: yellow;
+  background-color: lightyellow;
 
   display: flex;
   flex-direction: row;
