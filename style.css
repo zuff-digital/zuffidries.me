@@ -8,18 +8,16 @@
 }
 
 .outer-container {
-  height: 100%;
-  width: 100%;
   background-color: blue;
+
   display: flex;
-  flex-direction: column;
   justify-content: space-around;
   align-self: center;
 }
 
 .inner-container {
-  margin: auto;
   background-color: yellow;
+  
   display: flex;
   flex-direction: row;
   justify-content: space-around;
