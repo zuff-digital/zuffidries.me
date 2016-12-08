@@ -1,4 +1,4 @@
-.container {
+.outer-container {
   background-color: grey;
 
   display: flex;
@@ -20,7 +20,7 @@
 
 
 
-p {
+.inner-container {
   background-color: yellow;
 
   display: flex;
