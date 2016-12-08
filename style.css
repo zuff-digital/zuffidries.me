@@ -11,6 +11,7 @@ body {
 
 .name {
   font-family: 'Merriweather', serif;
+  text-shadow: 5px, 5px;
   font-size: 100px;
   text-align: center;
   font-style: italic;
@@ -24,7 +25,7 @@ body {
 
 .inner-container {
   font-family: sans-serif;
-  font-size: .1rem;
+  font-size: .15rem;
   font-style: italic;
 
   display: flex;
