@@ -1,10 +1,34 @@
 .outer-container {
-  background-color: grey;
-
+  /**
+   * Lay out the children of this container with
+   * flexbox.
+   */
   display: flex;
+
+  /**
+   * Rotate the main axis so that the children
+   * are laid out vertically, the same as in the
+   * above "Side bar" example.
+   */
   flex-direction: column;
+
+  /**
+   * Align the children in the center, along
+   * the main axis. Because the direction is
+   * "column" this has a similar effect as setting
+   * text-align: center.
+   */
   align-items: center;
+
+  /**
+   * Instead of pushing the children apart, as in
+   * previous examples, we will group them together
+   * in the center of their container.
+   */
   justify-content: center;
+
+  min-height: 300px;
+  padding: 10px;
 }
 
 .name {
