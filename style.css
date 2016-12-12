@@ -29,3 +29,7 @@ body {
   flex-direction: row;
   justify-content: space-around;
 }
+
+#art:hover {
+  background-image: image('./photos/juice.jpg');
+}
