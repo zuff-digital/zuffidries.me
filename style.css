@@ -31,5 +31,5 @@ body {
 }
 
 #art:hover {
-  background-image: image('./photos/juice.jpg');
+  background-color: lightblue;
 }
