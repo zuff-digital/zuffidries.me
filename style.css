@@ -21,14 +21,6 @@ body {
   align-self: center;
 }
 
-.svg-clip {
-    -webkit-clip-path: url(#svgPath);
-    clip-path: url(#svgPath);
-    margin:0 auto;
-}
-
-
-
 .inner-container {
   font-family: sans-serif;
   font-size: .15rem;
