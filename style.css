@@ -31,5 +31,6 @@ body {
 }
 
 #art:hover {
-  background-color: lightblue;
+  body.background-color: lightblue;
+  
 }
